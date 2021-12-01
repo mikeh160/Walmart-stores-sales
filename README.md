@@ -1,5 +1,5 @@
 # Walmart-stores-sales
-A comprehensive notebook on kaggle competition m5-forecasting-accuracy detailing eda and time series analysis along with forecasting using sarimax and prophet models
+A comprehensive notebook on kaggle competition m5-forecasting-accuracy detailing eda and time series analysis along with forecasting using sarimax and prophet models. Discussion on these findings is presented in the notebook as well as on a [medium article](https://medium.com/@mubashirh160/comprehensive-eda-time-series-forecasting-tutorial-using-sarimax-prophet-model-walmart-stores-caa3c3f1a6d6)
 
 ## Table of Contents
 1. [Project Motivation](#motivation)
@@ -18,7 +18,7 @@ The project was chosen to experience the complexities that are involved in makin
 
 These are three data input files, with one submission file that has to be filled with sales of units predictions for the next 28 days, represented in the submission file as F1,F2 ...F28.
 
-**Note** Since the data files size exceed the limit of 100 MB on github, the files sell_prices.csv, sales_train_validation.csv and calendar.csv are hosted on kaggle on the following link https://www.kaggle.com/c/m5-forecasting-accuracy/data
+**Note** Since the data files size exceed the limit of 100 MB on github, the files sell_prices.csv, sales_train_validation.csv and calendar.csv are hosted on kaggle on the [data link](https://www.kaggle.com/c/m5-forecasting-accuracy/data)
 
 ```
 1. sales_train_validation.csv               -file containing categorical level data for about 30,000 unique product ids with number of units sold on almost 1900 days
